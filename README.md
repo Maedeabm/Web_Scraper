@@ -27,3 +27,11 @@ You can install these dependencies using pip:
 
 ```bash
 pip install beautifulsoup4 requests pandas numpy PyInquirer
+
+## Usage
+
+To start the application, navigate to the project directory and run:
+
+```bash
+python main.py
+
