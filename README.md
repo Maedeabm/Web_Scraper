@@ -35,6 +35,7 @@ To start the application, navigate to the project directory and run:
 ```bash
 python main.py
 
+```
 
 Follow the prompts to select the years and statistics you want to scrape. The scraped data will be saved in CSV files in the current directory.
 
