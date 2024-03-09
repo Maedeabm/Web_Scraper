@@ -35,7 +35,9 @@ To start the application, navigate to the project directory and run:
 ```bash
 python main.py
 
+
 Follow the prompts to select the years and statistics you want to scrape. The scraped data will be saved in CSV files in the current directory.
+
 
 ## Project Structure
 
@@ -44,6 +46,7 @@ Follow the prompts to select the years and statistics you want to scrape. The sc
 - `data_processing.py`: Includes functions for processing and storing data.
 - `user_interface.py`: Handles user interactions and input.
 - `utils.py`: Contains utility functions and constants.
+
 
 ## Contributing
 
